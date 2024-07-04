@@ -8,4 +8,4 @@
   
 ### 💻 Tecnologia
 
- - *Back-end:* Python
+ - **Back-end:** Python
